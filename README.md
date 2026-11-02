@@ -2,17 +2,13 @@
 
 ## Project Overview
 
-This project focuses on analysing and forecasting electricity consumption in Germany using historical electricity data.
-
-The aim is to apply data science and machine learning techniques to identify electricity consumption patterns and develop forecasting models that can estimate future electricity demand.
+This project focuses on analysing and forecasting electricity consumption in Germany using historical electricity data. The aim is to apply data science and machine learning techniques to identify electricity consumption patterns and develop forecasting models that can estimate future electricity demand.
 
 Accurate electricity demand forecasting can support energy planning, resource allocation, grid management, and decision-making in the energy sector.
 
 ## Research Problem
 
-Electricity consumption changes over time due to factors such as weather conditions, seasonal patterns, economic activity, and human behaviour.
-
-Understanding these patterns and predicting future demand is important for maintaining a reliable and efficient electricity supply.
+Electricity consumption changes over time due to factors such as weather conditions, seasonal patterns, economic activity, and human behaviour. Understanding these patterns and predicting future demand is important for maintaining a reliable and efficient electricity supply.
 
 This project investigates how historical electricity consumption data can be used to forecast future demand in Germany.
 
